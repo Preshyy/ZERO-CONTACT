@@ -8,4 +8,17 @@ The final showdown awaits in a heart-pounding boss battle, testing your skills a
 
 Whether you're a seasoned platformer fan or a newcomer, Zero Contact promises a nostalgic journey with innovative twists that will keep you coming back for more.
 
+## Table of Contents.
+1. About the Game.
+2. Features.
+3. Getting Started.
+   - Prerequisities.
+   - Installation.
+4. Acknowledgements.
+5. Contact.
+
+## About the Game.
+
+
+
 
