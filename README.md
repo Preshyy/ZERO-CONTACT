@@ -32,6 +32,29 @@ Key Highlights:
 - Secret Game Mode: Discover a hidden mode for an unexpected twist and a secret ending.
 - Epic Boss Fight: Conclude your journey with an intense boss battle.
 
+## Getting Started
+### Prerequisites
+To play Zero Contact, you will need:
+- GameMaker Studio installed on your system.
+
+### Installation
+- Clone this repository: git clone https://github.com/YourUsername/Zero-Contact.git
+- Open GameMaker Studio.
+- Import the project files from the cloned repository.
+- Run the game directly within the GameMaker Studio environment.
+
+## Acknowledgements
+Special thanks to:
+- OpenGameArt for providing the free background images and wall/ground textures used in the game.
+- The creators on YouTube for the guides on how to navigate GameMaker Studio.
+- itch.io and the assets made available on this platform.
+- pixeldudesmaker for the free 2D character design platform.
+
+## Contact
+For feedback, suggestions, or questions, feel free to reach out:
+- Developer: Precious Sunday.
+- GitHub: https://github.com/Preshyy
+- Email: sprecious963@gmail.com
 
 
 
