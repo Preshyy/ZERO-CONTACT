@@ -38,10 +38,15 @@ To play Zero Contact, you will need:
 - GameMaker Studio installed on your system.
 
 ### Installation
-- Clone this repository: git clone https://github.com/YourUsername/Zero-Contact.git
-- Open GameMaker Studio.
-- Import the project files from the cloned repository.
-- Run the game directly within the GameMaker Studio environment.
+- Accessing the code directly:
+   - Clone this repository: git clone https://github.com/YourUsername/Zero-Contact.git
+   - Open GameMaker Studio.
+   - Import the project files from the cloned repository.
+   - Run the game directly within the GameMaker Studio environment.
+- Playing the game without GameMaker Studio:
+   - Download the zip file from itch.io here: https://parzival442.itch.io/zero-contact
+   - Extract the file on your computer.
+   - Launch the .exe file and enjoy!
 
 ## Acknowledgements
 Special thanks to:
